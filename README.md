@@ -10,12 +10,12 @@ This repository contains modular implementations of common mechanical joints:
 - Ball Joint
 - Hinge Joint
 - Saddle Joint
-- Universal Joint
 
 Each joint:
 - Is fully parametric
 - Exposes geometry, clearance, and motion constraints
 - Is suitable for downstream optimization and articulation analysis
 - Can be visualized interactively using Polyscope
+- Can be 3d printed for real world use
 
 
