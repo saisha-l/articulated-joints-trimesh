@@ -18,5 +18,4 @@ Each joint:
 - Is suitable for downstream optimization and articulation analysis
 - Can be visualized interactively using Polyscope
 
-## Structure
 
